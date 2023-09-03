@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Sum1dArray{
+public class SumArray{
     public static void main(String[] args) {
         
         int nums[] = {1,3,10,2};

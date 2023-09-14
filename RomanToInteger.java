@@ -1,7 +1,7 @@
 public class RomanToInteger {
 
   public static void main(String[] args) {
-    String s = "VL";
+    String s = "IV";
 
     int answer = 0, number = 0, prev = 0;
 

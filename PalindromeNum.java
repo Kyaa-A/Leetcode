@@ -14,11 +14,13 @@ public class PalindromeNum {
 
         String word1 = str.toString();
         String word2 = str.reverse().toString();
-
-        if(word1.equals(word2)){
-            return true;
-        }
-        return false;
         
+        return (word1.equals(word2)) ? true : false;
+
     }
 }
+
+/* if(word1.equals(word2)){
+    return true;
+}
+return false; */
